@@ -20,4 +20,4 @@ Desenvolvimento de jogos
 
 ## O que considero um software bem projetado?
 
-Um software que cumpre tudo que se propõe com êxito sem nenhuma falha
+Um software que cumpre tudo que se propõe com êxito sem nenhuma falha contendo tudo necessitado no escopo original
